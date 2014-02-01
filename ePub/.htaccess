@@ -1,0 +1,11 @@
+<Files index.php>
+    php_value upload_max_filesize 512M 
+    php_value post_max_size 512M
+    php_value max_execution_time 18000
+    php_value max_input_time 18000
+</Files>
+<Files activitylibrary.php>
+    php_value upload_max_filesize 100G 
+    php_value post_max_size 100G
+</Files>
+
