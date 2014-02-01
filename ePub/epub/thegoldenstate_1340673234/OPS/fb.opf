@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package xmlns='http://www.idpf.org/2007/opf' unique-identifier='EPB-UUID' version='2.0'>
+<metadata xmlns:opf='http://www.idpf.org/2007/opf' xmlns:dc='http://purl.org/dc/elements/1.1/'>
+<dc:title>ewrwerwer</dc:title>
+<dc:creator></dc:creator>
+<dc:subject></dc:subject>
+<dc:description></dc:description>
+<dc:contributor>Mac OS X 10.6.7 Quartz PDFContext</dc:contributor>
+<dc:date>2011-07-09</dc:date>
+<dc:type></dc:type>
+<dc:format></dc:format>
+<dc:source></dc:source>
+<dc:relation></dc:relation>
+<dc:coverage></dc:coverage>
+<dc:rights></dc:rights>
+<dc:identifier id='EPB-UUID'>urn:uuid:123456</dc:identifier>
+<dc:language>en-gb</dc:language>
+<meta name='cover' content='coverimage' />
+</metadata>
+<manifest>
+<item id='coverimage' href='images/cover.jpg' media-type='image/jpeg'/>
+<item id='ncx' href='fb.ncx' media-type='application/x-dtbncx+xml'/>
+</manifest>
+<spine toc='ncx'>
+</spine>
+</package>

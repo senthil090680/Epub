@@ -1,0 +1,9 @@
+<display_options>
+	<platform name="ipad">
+		<option name="fixed-layout">true</option>
+		<option name="specified-fonts">false</option>
+		<option name="open-to-spread">true</option>
+		<option name="orientation-lock">portrait-only</option>
+		<option name="interactive">true</option>
+	</platform>
+</display_options>

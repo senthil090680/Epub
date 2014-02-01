@@ -1,0 +1,30 @@
+;
+; winfont.map - map Postscript & PDF font names to Windows fonts
+;
+; winfont.map allows multiple mappings for a name,
+;       the first target font that exists is used.
+
+; The defaults below are added after winfont.map is loaded
+;       if you wish to change one, modify it here.
+
+;Times-Roman=Times New Roman
+;Times-Italic=Times New Roman Italic
+;Times-Bold=Times New Roman Bold
+;Times-BoldItalic=Times New Roman Bold Italic
+;Helvetica=Arial
+;Helvetica-Oblique=Arial Italic
+;Helvetica-Bold=Arial Bold
+;Helvetica-BoldOblique=Arial Bold Italic
+;Courier=Courier New
+;Courier-Oblique=Courier New Italic
+;Courier-Bold=Courier New Bold
+;Courier-BoldOblique=Courier New Bold Italic
+;Symbol=Symbol
+
+MS-PGothic=msgothic.ttc
+HGSGothicE=msgothic.ttc
+HGGothicE=msgothic.ttc
+HGPSoeiKakupoptai=msgothic.ttc
+HGPGothicE=msgothic.ttc
+MSPGothic=msgothic.ttc
+KozGoPro-Medium=msgothic.ttc

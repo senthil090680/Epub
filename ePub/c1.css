@@ -1,0 +1,142 @@
+.pos {
+	position: absolute; z-index:1;
+}
+@font-face {
+    font-family: Myriad10;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/Myriad10.otf);
+}
+
+@font-face {
+    font-family: Myriad12;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/Myriad12.otf);
+}
+
+@font-face {
+    font-family: MyriadP0;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadP0.otf);
+}
+
+@font-face {
+    font-family: MyriadP2;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadP2.otf);
+}
+
+@font-face {
+    font-family: MyriadP4;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadP4.otf);
+}
+
+@font-face {
+    font-family: MyriadP6;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadP6.otf);
+}
+
+@font-face {
+    font-family: MyriadP8;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadP8.otf);
+}
+
+@font-face {
+    font-family: MyriadPA;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPA.otf);
+}
+
+@font-face {
+    font-family: MyriadPC;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPC.otf);
+}
+
+@font-face {
+    font-family: MyriadPE;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPE.otf);
+}
+
+@font-face {
+    font-family: MyriadPro-Bold;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPro-Bold.otf);
+}
+
+@font-face {
+    font-family: MyriadPro-BoldCond;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPro-BoldCond.otf);
+}
+
+@font-face {
+    font-family: MyriadPro-BoldCondIt;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPro-BoldCondIt.otf);
+}
+
+@font-face {
+    font-family: MyriadPro-BoldIt;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPro-BoldIt.otf);
+}
+
+@font-face {
+    font-family: MyriadPro-Cond;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPro-Cond.otf);
+}
+
+@font-face {
+    font-family: MyriadPro-CondIt;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPro-CondIt.otf);
+}
+
+@font-face {
+    font-family: MyriadPro-It;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPro-It.otf);
+}
+
+@font-face {
+    font-family: MyriadPro-Regular;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPro-Regular.otf);
+}
+
+@font-face {
+    font-family: MyriadPro-Semibold;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPro-Semibold.otf);
+}
+
+@font-face {
+    font-family: MyriadPro-SemiboldIt;
+    font-weight: normal;
+    font-style: italic;
+    src: url(../fonts/myriadp0_1340363237/MyriadPro-SemiboldIt.otf);
+}
